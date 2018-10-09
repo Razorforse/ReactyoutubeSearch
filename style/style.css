@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.search-bar,.list-group-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    cursor: pointer;
+}
