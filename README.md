@@ -1,25 +1,9 @@
-# ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+    Мини поисковая система на react-redux, использующая youtube api
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+Шаги для успешного запуска:
+1.git clone https://github.com/Razorforse/ReactyoutubeSearch
+2.cd ReactyoutubeSearch
+3.npm install
+4.npm i redux react-redux redux-thunk redux-logger prop-types --save
+5.yarn или npm start 
